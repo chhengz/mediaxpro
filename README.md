@@ -6,6 +6,12 @@ MediaXPro uses **Stream Downloading** to ensure low memory footprints on mobile 
 
 ---
 
+## 📸 Screenshot
+
+![screenshots](images/screenshots.png)
+
+---
+
 ## ✨ Features
 
 * **🔗 Bulk Processing:** Add multiple video link cards for concurrent management.
